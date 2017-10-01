@@ -15,7 +15,6 @@
   "2cap_keys": [
     {
       "poll": 500,
-      "qty": 1,
       "maximumSolves": 1,
       "key": "xxx"
     }
@@ -23,7 +22,6 @@
   "anticap_keys": [
     {
       "poll": 500,
-      "qty": 2,
       "maximumSolves": 3,
       "key": "xxx"
     }
