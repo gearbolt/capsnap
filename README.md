@@ -20,7 +20,7 @@ Configure information inside the `config.example.json` be sure to rename it to `
 Run After Setup:
 
 ```sh
-$ npm run
+$ npm start
 ```
 
 # Config
