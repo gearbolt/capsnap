@@ -1,0 +1,31 @@
+{
+  "sitekey": "6LeWwRkUAAAAAOBsau7KpuC9AV-6J8mhw4AjC3Xz",
+  "pageurl": "wwww.supremenewyork.com",
+  "injectToBot": {
+    "enabled": true,
+    "postURL": "TODO"
+  },
+  "database": {
+		"client": "sqlite3",
+		"connection": {
+			"filename": "./tokens"
+		},
+		"useNullAsDefault": true
+	},
+  "2cap_keys": [
+    {
+      "poll": 500,
+      "qty": 1,
+      "maximumSolves": 1,
+      "key": "xxx"
+    }
+  ],
+  "anticap_keys": [
+    {
+      "poll": 500,
+      "qty": 2,
+      "maximumSolves": 3,
+      "key": "xxx"
+    }
+  ]
+}
